@@ -11,3 +11,4 @@ The exercises can be found in `async.spec.js`;
 # Complementar Links
 
 -  [JavaScript: Cinco Ensinamentos Fundamentais Sobre Assincronismo](https://medium.com/@mathiasghenoazzolini/javascript-cinco-ensinamentos-fundamentais-sobre-assincronismo-6bd1955d62f9)
+-  [Concurrency, Parallelism, Threads, Processes, Async and Sync — Related? ](https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d)
