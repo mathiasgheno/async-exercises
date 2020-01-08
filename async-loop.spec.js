@@ -1,4 +1,7 @@
-const { getGithubAccountByUserNamePromise, getGithubAccountsByUserNameCallback } = require('./github/api');
+const {
+    getGithubAccountByUserNamePromise,
+    getGithubAccountByUserNameCallback
+} = require('./github/api');
 
 
 /**

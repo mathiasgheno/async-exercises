@@ -7,7 +7,7 @@ module.exports = {
     getGithubAccountByUserNamePromise: (userName) => axios
         .get(`${url}${userName}`)
         .then(response => response.data),
-    getGithubAccountsByUserNameCallback: (userName, callback) => superagent
+    getGithubAccountByUserNameCallback: (userName, callback) => superagent
         .get(`${url}${userName}`)
         .set('User-Agent', 'mathias')
         .end((err, res) => callback(err, res.body)),

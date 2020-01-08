@@ -11,7 +11,7 @@ const getMathias54WithPromise = require('./axios/axios');
 
 describe('getMathias54', () => {
     describe('with callback', () => {
-        it('should retorn an object with property id equal to 14915619', (done) => {
+        it('should return an object with property id equal to 14915619', (done) => {
 
         });
     });
